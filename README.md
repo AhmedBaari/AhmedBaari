@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbaari" alt="ahmedbaari" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/AhmedBaari/problem-solving-with-c/](https://github.com/AhmedBaari/problem-solving-with-c/)
-
 - 🌱 I’m currently learning **Data Structures, Java and Generative AI**
 
 - 🤝 I’m looking for help with **Web Development**
 
 - 💬 Ask me about **APIs, Databases, Servers, Generative AI**
 
-- 📫 How to reach me **https://instagram.com/baari.me**
-
-- ⚡ Fun fact **My height gets me advantages**
+- 📫 Reach me at **https://instagram.com/baari.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
