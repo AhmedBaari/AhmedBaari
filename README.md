@@ -5,20 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbaari" alt="ahmedbaari" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures, Java and Generative AI**
+- 🌱 I’m currently learning **Operating Systems, Computer Networks, Large Language Models and Object Detection**
 
-- 🤝 I’m looking for help with **Web Development**
-
-- 💬 Ask me about **APIs, Databases, Servers, Generative AI**
-
-- 📫 Reach me at **https://instagram.com/baari.me**
+- 📫 Reach me at **https://linkedin.com/in/ahmedbaari**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/baari.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baari.me" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedbaari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedbaari" height="30" width="40" /></a>
-<a href="https://instagram.com/baari.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baari.me" height="30" width="40" /></a>
-<a href="https://go.baari.me/social/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="00000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
